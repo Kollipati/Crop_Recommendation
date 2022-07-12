@@ -15,8 +15,8 @@
 ## Demo
 
 Insert gif or link to demo
+https://user-images.githubusercontent.com/89390696/178415344-d9d0d059-54f5-4f13-b2da-4a173e4d5034.mp4
 
-https://user-images.githubusercontent.com/89390696/178415006-750ab1bd-86ea-486f-8aab-e627969f8e3a.mp4
 ## Deployment
 
 This Project Is Deployed In Heroku : https://crop-recommendation-by-vamshi.herokuapp.com/
