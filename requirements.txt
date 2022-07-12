@@ -7,7 +7,7 @@ importlib-metadata==4.11.3
 itsdangerous==2.0.1
 Jinja2==2.11.3
 joblib==1.1.0
-MarkupSafe==2.1.1
+MarkupSafe==2.0.1
 numpy==1.21.5
 pandas==1.4.2
 python-dateutil==2.8.2
