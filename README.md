@@ -57,5 +57,5 @@ I'm a Data Scientist / Machine Learning Engineer
 
 # Thanks For Visiting :) 
 
-If this is helpful, please star ✩ the repo
+Please do ⭐ the repository, if it helped you in anyway
 
